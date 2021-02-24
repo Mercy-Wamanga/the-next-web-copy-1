@@ -329,5 +329,17 @@ ul li a{
     line-height:19px;
     /*text-transform: uppercase;*/
 
- 
+    #footer-links{
+        background:url(../../images/footer-links.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    }
+    #footer-legal{
+        background:url(../../images/footer-legal.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    }
+
 
