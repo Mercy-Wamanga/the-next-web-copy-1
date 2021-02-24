@@ -19,10 +19,10 @@ nav{
 {
     float:right;
 }
- /* div{
+ div{
     border: 1px solid blue;
     
-}   */
+}   
 
 /* #row-2{
     font-family: Shentox;
@@ -330,15 +330,17 @@ ul li a{
     /*text-transform: uppercase;*/
 
     #footer-links{
-        background:url(../../images/footer-links.PNG);
+    background:url(../../images/footer-links.PNG);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 161px;
 
     }
     #footer-legal{
-        background:url(../../images/footer-legal.PNG);
+    background:url(../../images/footer-legal.PNG);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 99px;
 
     }
 
